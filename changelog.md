@@ -1,4 +1,6 @@
 ## Code Line Numbers Remover change log
+### Version 0.4
+* Added learn.javascript.ru;
 ### Version 0.3
 * Added superfastpython.com support;
 * Changed the way that script works to support multiple sites in one script;
